@@ -1,11 +1,7 @@
-STUDENT_NAMES = [
-  "Adele",
-  "Beyoncé",
-  "Cardi B",
-  "Lady Gaga",
-  "Nicki Minaj",
-  "Rihanna"
-]
+
+
+student_names = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
+student_names.first
 
 
 
