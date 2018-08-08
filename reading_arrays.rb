@@ -1,7 +1,7 @@
 
 
 student_names = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
-student_names[0]
+puts student_names[0]
 
 
 
@@ -23,7 +23,7 @@ student_names[0]
 # end
 
 # def last_student_by_method
-#   # Write a solution that returns the first student using the built in .last method
+#   # Write a solution that returns the last student using the built in .last method
 # end
 
 # def first_second_and_third_students
