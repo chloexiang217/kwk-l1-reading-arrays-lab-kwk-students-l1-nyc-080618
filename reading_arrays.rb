@@ -1,7 +1,7 @@
 
 
-student_names = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
-puts student_names[0]
+STUDENT_NAMES = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
+puts STUDENT_NAMES[0]
 
 
 
