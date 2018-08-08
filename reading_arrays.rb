@@ -14,6 +14,18 @@ def last_student_by_index
   return STUDENT_NAMES[5]
 end
 
+def first_student_by_method
+  return STUDENT_NAMES.first
+end
+
+def last_student_by_method
+  return STUDENT_NAMES.last
+end
+
+def first_second_and_third_students
+  return STUDENT_NAMES[0..1..2]
+end
+
 # def first_student_by_index
 #   # Write a solution that returns the first student in the array student_names
 # end
